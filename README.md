@@ -1,6 +1,8 @@
 # vk-friends-online-stats
 It's small script. 
+
 It can write time when your friends was online & offline.
+
 Result writes to csv file. Default name: data.csv
 
 
@@ -11,7 +13,7 @@ Install python 3.
 
 ``` pip install -r requirements.txt ```
 
-1. Go to [bit.ly/vk_api_token](http://bit.ly/vk_api_token)
+1. Go to [bit.ly/vk_api_token](http://bit.ly/get_vk_api_token)
 2. Copy the token.
 3. Write in the command line ``` export ACCESS_TOKEN=your_token ```
 4. ``` python3 main.py ```
