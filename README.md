@@ -9,7 +9,7 @@ Result writes to csv file. Default name: data.csv
 
 Install python 3.
 
-``` pip install requirements.txt ```
+``` pip install -r requirements.txt ```
 
 1. Go to [bit.ly/vk_api_token](http://bit.ly/vk_api_token)
 2. Copy the token.
